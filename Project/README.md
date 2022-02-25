@@ -27,4 +27,5 @@ This system promotes contactless body temperature sensing.
 The system is affordable and can be used at private as well as public levels.
 This system promotes sanitation and hygienic habit in every person to prevent us from these kind of flu and contagious diseases.
 ### **2. BLOCK DIAGRAM**
+![SMV System](https://user-images.githubusercontent.com/98824269/155808026-634557b3-0e8b-43a2-8cad-63a84636397e.png)
 
