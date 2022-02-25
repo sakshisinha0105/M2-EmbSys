@@ -27,5 +27,6 @@ This system promotes contactless body temperature sensing.
 The system is affordable and can be used at private as well as public levels.
 This system promotes sanitation and hygienic habit in every person to prevent us from these kind of flu and contagious diseases.
 ### **2. BLOCK DIAGRAM**
+![SMV drawio](https://user-images.githubusercontent.com/98824269/155808547-27eb0c87-c47d-41d7-a331-e4a508fdbc85.png)
 
 #### **2.1 Flow Diagram**
