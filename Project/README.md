@@ -33,4 +33,11 @@ This system promotes sanitation and hygienic habit in every person to prevent us
 ![SMV System](https://user-images.githubusercontent.com/98824269/155808968-aedfd9c0-6d86-44d7-b086-897e2493b530.png)
 
 ### **3. REQUIREMENT**
+#### HIGH LEVEL REQUIREMENTS
+|RID|DESCRIPTION|
+|----|-----|
+|HLR1|It shall sense the person passing by.|
+|HLR2|It shall vend the sanitizer after sensing the person's hand near by.|
+|HLR3|It shall check the bosy temperature after passing the previous test.|
+||
 
