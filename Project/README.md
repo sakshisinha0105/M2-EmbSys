@@ -28,3 +28,4 @@ The system is affordable and can be used at private as well as public levels.
 This system promotes sanitation and hygienic habit in every person to prevent us from these kind of flu and contagious diseases.
 ### **2. BLOCK DIAGRAM**
 
+#### **2.1 Flow Diagram**
