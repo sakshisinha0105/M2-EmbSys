@@ -6,6 +6,7 @@
    #### 1.2 MOTIVATION
 2. BLOCK DIAGRAM
    #### 2.1 FLOW DIAGRAM
+   #### 2.2 BLOCK DIAGRAM COMPONENTS
 3. REQUIREMENT
 
 ***
@@ -46,13 +47,13 @@ This system promotes sanitation and hygienic habit in every person to prevent us
 * This can be air temperature, liquid temperature or the temperature of solid matter.
 4. **BUZZER**
 * It's simple, tone(buzzer, 1000) sends a 1KHz sound signal to pin 9, delay(1000) pause the program for one second and noTone(buzzer) stops the signal sound. 
-5. LCD DISPLAY
+5. **LCD DISPLAY**
 * The LiquidCrystal library allows you to control LCD displays with the 16-pin interface. 
 * The LCDs have a parallel interface, meaning that the microcontroller has to manipulate several interface pins at once to control the display.
-6. LED
+6. **LED**
 * There are 2 LEDs interfaced : GREEN AND RED
 * These LEDs are for reminder output purpose to show the next procedure.
-7. SERVO MOTOR (ACTUATOR)
+7. **SERVO MOTOR (ACTUATOR)**
 * A servo motor is the most common position-controlled actuator. 
 * It works on the conventional servo-mechanism principle, where a rotary potentiometer measures the position of the shaft based on the varying resistance and feeds it to a comparator. 
 * The comparator computes the difference between the reference position value from the controller against the actual position and sends the amplified error signal to the motor. The error amplification is usually a PID loop.
