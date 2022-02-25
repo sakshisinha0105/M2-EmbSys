@@ -7,8 +7,7 @@
 2. BLOCK DIAGRAM
    #### 2.1 FLOW DIAGRAM
 3. REQUIREMENT
-4. FUTURE ASPECT
-5. APPLICATION
+
 ***
 ### **1. INTRODUCTION**
 After the novel Corona Virus outbreak, govt. and public around the world have finally pushed themselves towards the hygienic way of living and proper sanitation.
