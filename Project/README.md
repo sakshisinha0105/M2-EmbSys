@@ -30,7 +30,8 @@ This system promotes sanitation and hygienic habit in every person to prevent us
 ![SMV drawio](https://user-images.githubusercontent.com/98824269/155808547-27eb0c87-c47d-41d7-a331-e4a508fdbc85.png)
 
 #### **2.1 Flow Diagram**
-![SMV System](https://user-images.githubusercontent.com/98824269/155808968-aedfd9c0-6d86-44d7-b086-897e2493b530.png)
+![smv flow diagram](https://user-images.githubusercontent.com/98824269/157289231-fef08e1c-fc16-4ff5-996a-bca2ae174c48.png)
+
 
 #### **2.2 Block Diagram Components**
 1. **ARDUINO UNO** 
