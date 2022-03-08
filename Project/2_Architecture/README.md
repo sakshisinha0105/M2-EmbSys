@@ -35,3 +35,4 @@
 * The comparator computes the difference between the reference position value from the controller against the actual position and sends the amplified error signal to the motor. The error amplification is usually a PID loop.
 
 #### **PIN DIAGRAM OF ARDUINO UNO**
+
