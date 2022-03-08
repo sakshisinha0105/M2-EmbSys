@@ -8,6 +8,10 @@
 
 ![smv simulation](https://user-images.githubusercontent.com/98824269/157292323-4d9931a3-c223-40f6-8859-6f311c08cb07.png)
 
+#### **FLOW DIAGRAM**
+![smv flow diagram](https://user-images.githubusercontent.com/98824269/157298302-e7e195f2-6768-4c23-9f1b-190add0316a7.png)
+
+
 #### **COMPONENTS OF SMV SYSTEM**
 1. **ARDUINO UNO** 
 
